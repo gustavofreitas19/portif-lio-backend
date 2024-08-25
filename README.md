@@ -1,1 +1,3 @@
-opa aqui é gustavo , sou da segunda fase e estou me aventurando nessa materia.
+Gustavo de Freitas Cardoso
+Disciplina de Backend
+Portifólio de Atividades
