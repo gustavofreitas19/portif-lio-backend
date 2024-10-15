@@ -1,0 +1,13 @@
+exercicio09 
+
+Marcelo Malaguitti realmente destaca a relevância de agências de segurança especializadas na proteção contra ameaças cibernéticas. Um exemplo de ataque conhecido contra sistemas de backend é o SQL Injection. Esse tipo de ataque permite que um invasor insira ou manipule comandos SQL em um sistema, comprometendo a integridade do banco de dados.
+
+O impacto nos negócios pode ser significativo: por exemplo, uma violação resultante de um SQL Injection pode levar à exposição de dados sensíveis de clientes, o que não só causa danos à reputação da empresa, mas também pode resultar em multas regulatórias e perda de confiança dos consumidores. Isso pode se traduzir em queda nas vendas e em custos elevados de remediação e legalidade. Para os usuários, a consequência pode ser a exposição de informações pessoais, o que pode levar a fraudes e outras atividades maliciosas.
+
+As informações sobre SQL Injection e seu impacto nos negócios são amplamente discutidas em literatura de segurança da informação e relatórios de incidentes cibernéticos. Você pode consultar fontes como:
+
+-OWASP (Open Web Application Security Project): A OWASP fornece uma descrição detalhada sobre SQL Injection e suas consequências.
+
+-Relatórios de empresas de segurança cibernética: Empresas como Symantec, McAfee e Verizon publicam relatórios anuais sobre violações de dados, que incluem informações sobre ataques e seus impactos.
+
+-Artigos acadêmicos e estudos de caso: Muitos estudos em revistas de segurança da informação analisam o impacto de ataques cibernéticos em negócios.
