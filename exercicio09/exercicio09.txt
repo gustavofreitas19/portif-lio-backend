@@ -1,0 +1,24 @@
+exercicio09
+pergunta selecionada:Marcelo Malaguitti defendeu a importância de agências de segurança especializadas na proteção contra ameaças cibernéticas. Cite pelo menos um tipo de ataque conhecido contra sistemas de backend e de que forma isso impactou nos negócios de uma empresa e/ou nos usuários.
+
+Resposta:
+Ataque de Injeção SQL
+
+O que é um Ataque de Injeção SQL?
+
+Uma injeção SQL ocorre quando um invasor insere código SQL malicioso em uma consulta de banco de dados. Isso permite que ele altere ou manipule o banco de dados de forma não autorizada, comprometendo a segurança do sistema.
+
+Impactos para Negócios e Usuários:
+
+-Roubo de Dados Sensíveis: Os invasores podem acessar informações confidenciais, como dados de cartões de crédito, informações pessoais de clientes e credenciais de login.
+-Perda de Confiança: A exposição de dados pode prejudicar a confiança dos usuários na empresa, resultando em clientes insatisfeitos e queda na fidelidade.
+-Custos Financeiros: Empresas podem sofrer custos significativos para lidar com a recuperação de dados, investigações de segurança e penalidades regulatórias. Isso pode incluir:
+   -Multas por violação de leis de proteção de dados.
+   -Custos de correção das vulnerabilidades exploradas.
+Exemplo Real:
+
+Em 2013, a rede de varejo Target sofreu um ataque de injeção SQL que expôs os dados de cerca de 40 milhões de cartões de crédito. O incidente prejudicou gravemente a reputação da empresa e resultou em enormes prejuízos financeiros, além de ações judiciais e compensações.
+
+Conclusão:
+
+Proteger sistemas contra injeções SQL é essencial para garantir a segurança de dados e a integridade dos negócios. Agências de segurança cibernética desempenham um papel crucial na prevenção e mitigação desses ataques.
